@@ -1,0 +1,29 @@
+.Accumulate {
+  color: #315deed0;
+  font-size: 26px;
+  font-weight: 500;
+  display: inline-block;
+  justify-content: center;
+  align-content: center;
+  left: 500px;
+  position: relative;
+  border-right: 1px solid blue;
+  height: 70px;
+  width: 400px;
+}
+.Statistic {
+  color: black;
+  font-size: 26px;
+  font-weight: 500;
+  display: inline-block;
+  justify-content: center;
+  align-content: center;
+  left: 320px;
+  position: relative;
+  border-right: 1px solid blue;
+  height: 70px;
+  width: 400px;
+}
+.headerlogo {
+  background-size: cover;
+}
