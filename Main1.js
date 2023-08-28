@@ -1,9 +1,10 @@
 import React from "react";
+import "./Main.css";
 
 export default function Main1() {
   return (
     <>
-      <p>실시간 피해상황 공유</p>
+      <div className="rhddb">실시간 피해상황 공유</div>
       <li>glkjla</li>
       <li>kgljal</li>
       <li>gla</li>

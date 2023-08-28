@@ -1,29 +1,76 @@
 .Accumulate {
   color: #315deed0;
-  font-size: 26px;
+  font-size: 30px;
   font-weight: 500;
   display: inline-block;
   justify-content: center;
   align-content: center;
   left: 500px;
   position: relative;
-  border-right: 1px solid blue;
+  margin-top: 40px;
+  border-right: 1px solid #315deed0;
   height: 70px;
   width: 400px;
 }
 .Statistic {
   color: black;
-  font-size: 26px;
-  font-weight: 500;
+  font-size: 30px;
   display: inline-block;
   justify-content: center;
   align-content: center;
   left: 320px;
   position: relative;
-  border-right: 1px solid blue;
+
+  border-right: 1px solid #315deed0;
+  height: 70px;
+  width: 400px;
+}
+.rhdqor {
+  font-size: 50px;
+  font-weight: 700;
+  font-family: sans-serif;
+  display: inline-block;
+  justify-content: center;
+  align-content: center;
+  left: 420px;
+  bottom: 40px;
+  position: relative;
+  height: 70px;
+  width: 400px;
+}
+.rhdqorblue {
+  color: #315deed0;
+  font-size: 50px;
+  font-weight: 700;
+  font-family: sans-serif;
+  display: inline-block;
+  justify-content: center;
+  align-content: center;
+  left: 540px;
+  bottom: 40px;
+  position: relative;
   height: 70px;
   width: 400px;
 }
 .headerlogo {
   background-size: cover;
+}
+.finsur {
+  font-size: 30px;
+  display: inline-block;
+  justify-content: center;
+  align-content: center;
+  left: 127px;
+  position: relative;
+  margin-top: 40px;
+  border-right: 1px solid #315deed0;
+  height: 70px;
+}
+.rhddb {
+  color: #315deed0;
+  font-size: 30px;
+  font-weight: 400;
+  border-bottom: 1px solid;
+  padding-bottom: 20px;
+  padding-left: 130px;
 }
