@@ -1,0 +1,111 @@
+* {
+  box-sizing: border-box;
+}
+.Accumulate {
+  color: #315deed0;
+  font-size: 30px;
+  font-weight: 500;
+  display: inline-block;
+  justify-content: center;
+  align-content: center;
+  left: 905px;
+  position: absolute;
+  margin-top: 40px;
+  height: 70px;
+}
+.Statistic {
+  color: black;
+  font-size: 30px;
+  display: inline-block;
+  justify-content: center;
+  align-content: center;
+  left: 320px;
+  position: absolute;
+  margin-top: 40px;
+  border-right: 1px solid #315deed0;
+  height: 70px;
+  width: 400px;
+}
+.rhdqor {
+  font-size: 50px;
+  font-weight: 700;
+  font-family: sans-serif;
+  display: inline-block;
+  justify-content: center;
+  align-content: center;
+  left: 420px;
+  margin-top: 70px;
+  position: absolute;
+  height: 70px;
+  width: 400px;
+}
+.rhdqorblue {
+  color: #315deed0;
+  font-size: 50px;
+  font-weight: 700;
+  font-family: sans-serif;
+  display: inline-block;
+  justify-content: center;
+  align-content: center;
+  left: 967px;
+  margin-top: 70px;
+  position: absolute;
+  height: 70px;
+  width: 400px;
+}
+.finsur {
+  font-size: 30px;
+  display: inline-block;
+  justify-content: center;
+  align-content: center;
+  left: 127px;
+  position: absolute;
+  margin-bottom: 500px;
+  margin-top: 40px;
+  border-right: 1px solid #315deed0;
+  height: 70px;
+}
+.finsur1 {
+  font-size: 30px;
+  display: inline-block;
+  justify-content: center;
+  align-content: center;
+  left: 81rem;
+  position: relative;
+  margin-bottom: 65px;
+  margin-top: 40px;
+  border-right: 1px solid #315deed0;
+  height: 70px;
+}
+.rhddb {
+  color: #315deed0;
+  display: block;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  top: 990px;
+  left: 140px;
+  border-radius: 20px;
+  border: 1px;
+  width: 767px;
+  height: 360px;
+}
+.rhddl {
+  width: 627px;
+  height: 58px;
+  top: 0.25px;
+  padding: 16px, 45px, 16px, 45px;
+  gap: 10px;
+}
+.headerlogo {
+  background-size: static;
+}
+.buttonq {
+  display: flexbox;
+  width: 25px;
+  height: 22px;
+  top: 23px;
+  left: 19.97px;
+  background-color: #0d588f;
+  color: white;
+}
