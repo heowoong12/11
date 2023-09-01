@@ -1,0 +1,42 @@
+.wrapper {
+  border-top: 1px solid #1588dc;
+
+  background: #ffffff;
+  position: relative;
+  padding: 10px;
+  margin-left: 140px;
+  top: 40px;
+
+  display: flex;
+  gap: 10px;
+}
+.hidden {
+  position: relative;
+
+  margin-right: 1px;
+  margin-top: 5px;
+}
+.title {
+  position: relative;
+  color: #e20000;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 46px;
+  bottom: 1px;
+  margin-right: 1px;
+  margin-left: 40px;
+}
+.description {
+  position: relative;
+  top: 1px;
+}
+.comment {
+  position: relative;
+  left: 350px;
+  top: 13px;
+}
+.date {
+  position: relative;
+  left: 353px;
+  top: 13px;
+}

@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import Main from "./components/Main";
 import Main1 from "./components/Main1";
 import Buttons from "./components/Buttons";
+import Listitem from "./components/Listitem";
 
 function App() {
   return (
@@ -13,17 +14,24 @@ function App() {
         <Main1 />
       </div>
       <Button className={styles.button}>더보기 +</Button>
-      <Button className={styles.button}>더보기 +</Button>
-      <Buttons />
-      <Buttons />
+      <Listitem />
+      <Listitem />
+
+      <Listitem />
+
+      <Listitem />
+
+      <Listitem />
     </>
   );
 }
 function Button({ style, children }) {
   return (
-    <button className={styles.button} style={style}>
-      {children}
-    </button>
+    <>
+      <button className={styles.button} style={style}>
+        {children}
+      </button>
+    </>
   );
 }
 
