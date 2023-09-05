@@ -5,7 +5,7 @@ import Main1 from "./components/Main1";
 import Buttons from "./components/Buttons";
 import Listitem from "./components/Listitem";
 
-function App() {
+function App(props) {
   return (
     <>
       <div>
@@ -14,13 +14,7 @@ function App() {
         <Main1 />
       </div>
       <Button className={styles.button}>더보기 +</Button>
-      <Listitem />
-      <Listitem />
-
-      <Listitem />
-
-      <Listitem />
-
+      <Listitem type={{ title: "er", type: "fsa" }} />
       <Listitem />
     </>
   );
