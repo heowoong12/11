@@ -5,7 +5,10 @@ import Buttons from "./Buttons";
 import Slide from "./Slide";
 import "./Buttons.module.css";
 
-export default function Listitem(props, { hidden, onChangeHidden }) {
+export default function Listitem(
+  props,
+  { title, type, hidden, onChangeHidden }
+) {
   return (
     <span>
       <Buttons />

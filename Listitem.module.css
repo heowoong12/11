@@ -1,5 +1,5 @@
 .wrapper {
-  border-bottom: 1px solid #1588dc;
+  border-bottom: 1px solid #7a7a7a;
   background: #ffffff;
   position: relative;
   padding: 10px;
@@ -32,12 +32,12 @@
 .comment {
   position: absolute;
   right: 320px;
-  top: 8px;
+  top: 23px;
   color: #e20000;
 }
 .date {
   color: #7a7a7a;
   position: absolute;
   right: 230px;
-  top: 8px;
+  top: 23px;
 }
